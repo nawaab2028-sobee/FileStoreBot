@@ -1,13 +1,13 @@
 [
     {
         "session": "ses",
-        "token": "764xxxx91:AAFEm1xxxxxxz5txhxgmk",
-        "api_id": "26xxxx00",
-        "api_hash": "9ea494xxxxxxxxxxx4bbd",
+        "token": "8876274833:AAGcx74Y3AlKlbzbH1cxwf2_4oHnO_KAgBk",
+        "api_id": "38498066",
+        "api_hash": "c9696114751feacdeb1b4487f5839a1a",
         "workers": 8,
-        "db_uri": "mongodb+srv://Clustexxxxxxxxxxx.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_uri": "mongodb+srv://msbro1099_db_user:msbro786178@cluster0.mrfafaz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "db_name": "name",
-        "fsubs": [[-1002074478106, true, 5]],
+        "fsubs": [[-1003330631655, true, 5]],
         "db": -1002074478106,
         "auto_del": 0,
         "messages": {
