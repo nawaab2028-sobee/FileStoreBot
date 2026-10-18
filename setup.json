@@ -8,7 +8,7 @@
         "db_uri": "mongodb+srv://msbro1099_db_user:msbro786178@cluster0.mrfafaz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "db_name": "name",
         "fsubs": [[-1003330631655, true, 5]],
-        "db": -1002074478106,
+        "db": -1003330631655,
         "auto_del": 0,
         "messages": {
             "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
